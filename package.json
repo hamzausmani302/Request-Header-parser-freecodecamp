@@ -1,0 +1,21 @@
+{
+  "name": "request-header-parser-freecodecamp",
+  "version": "1.0.0",
+  "description": "request parser to get ipaddress , software and language of a request",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "freecodecamp",
+    "ipaddress-parser",
+    "request",
+    "parse"
+  ],
+  "author": "hamza usmani",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
